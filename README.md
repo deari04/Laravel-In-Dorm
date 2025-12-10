@@ -1,8 +1,6 @@
 ## Terkait Laravel In-Dorm
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Proyek Laravel-In-Dorm adalah sebuah sistem informasi berbasis website yang dikembangkan untuk mengelola fasilitas Asrama di Balai Diklat Industri (BDI) Denpasar. Sistem ini merupakan hasil dari kolaborasi team Praktik Kerja Lapangan (PKL) yang bertujuan untuk menyediakan platform digital yang bagi petugas BDI dalam mengelola data penghuni asrama, kamar, dan inventaris secara lebih efisien. Sistem ini dibangun menggunakan framework Laravel (PHP) dan database MySQL/MariaDB, serta didukung oleh Bootstrap untuk tampilan antarmuka (UI). Dengan adanya sistem ini, proses administrasi yang awalnya manual, seperti pencatatan data penghuni dan kamar, kini dapat dilakukan secara terpusat dan terkomputerisasi.
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
